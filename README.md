@@ -1,5 +1,5 @@
 # DigiDraw
-DigiDraw automatically recognising your pen, digitalizes your art and signatures, and has the ability to color your drawings!
+Through the webcam, DigiDraw automatically recognising a blue object, and uses it as stylus for an air canvas. Now, you can draw in AIR!!
 # How to Go about it?
 # Step 1: Downloading libraries
 Download all the following libraries by running the following commands on your terminal! (please do not include the quotes)
